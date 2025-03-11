@@ -32,15 +32,16 @@ The dataset consists of telecom customer records with both numerical and categor
    - Evaluated models using **Accuracy, Precision, Recall, F1-score**
 
 ## 📊 Model Performance
-| Model | Train Accuracy | Test Accuracy |
-|--------|--------------|--------------|
-| Logistic Regression | **XX%** | **XX%** |
-| Decision Tree | **XX%** | **XX%** |
-| Random Forest | **XX%** | **XX%** |
-| XGBoost | **XX%** | **XX%** |
-| SVM | **XX%** | **XX%** |
-| KNN | **XX%** | **XX%** |
-| Naïve Bayes | **XX%** | **XX%** |
+| Model               | Train Accuracy | Test Accuracy |
+|---------------------|---------------|--------------|
+| Logistic Regression | 80.42%        | 79.84%       |
+| Decision Tree      | 99.80%        | 73.88%       |
+| Random Forest      | 99.79%        | 78.64%       |
+| XGBoost           | 93.88%        | 78.14%       |
+| KNN               | 83.49%        | 74.80%       |
+| SVM               | 82.05%        | 78.92%       |
+| Naïve Bayes       | 66.54%        | 65.58%       |
+
 
 
 
